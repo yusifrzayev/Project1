@@ -1,0 +1,4 @@
+hello
+file1
+
+a new function was added
